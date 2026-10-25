@@ -20,5 +20,22 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "의학관": {
+      "style": "ribbon",
+      "wall": "#9a958e",
+      "glass": "#5a7480",
+      "frame": "#e8a868"
+    },
+    "원주 기독교 의료 선교 사택": {
+      "style": "brick",
+      "wall": "#8c5f55",
+      "glass": "#3c4044",
+      "frame": "#e0e0dc",
+      "hip": true,
+      "roof": "#7a5560"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
