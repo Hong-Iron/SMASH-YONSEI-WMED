@@ -1,0 +1,34 @@
+{
+ "region": "강원 원주시 일산동",
+ "nameEn": "Yonsei University Wonju College of Medicine",
+ "added": "2026-10-17",
+ "rank": 229,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "SANGJI",
+   "campus": "상지대학교",
+   "km": 2.7
+  },
+  {
+   "code": "KANGWON-WONJU",
+   "campus": "강원대학교 원주캠퍼스",
+   "km": 5.3
+  },
+  {
+   "code": "HALLA",
+   "campus": "한라대학교",
+   "km": 6.1
+  },
+  {
+   "code": "YONSEI-MIRAE",
+   "campus": "연세대학교 미래캠퍼스",
+   "km": 8.6
+  },
+  {
+   "code": "SONGHO",
+   "campus": "송호대학교",
+   "km": 14.5
+  }
+ ]
+}
